@@ -5,7 +5,7 @@ user-guide-description: Aprenda a sacar el máximo partido a [!DNL Adobe Marketo
 source-git-commit: 8d746d38a6bde1470a30706d43fa6567ebba8dff
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 4%
       + [La variable [!DNL Marketo Measure] Tableros de ROI](onboarding/marketo-measure-102/roi-dashboards.md)
       + [Informes de Stock Salesforce](onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Informes adicionales de Salesforce](onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Almacenamiento de datos](onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse de  ](onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] y Salesforce{#marketo-measure-salesforce}
       + [Informe de posibles clientes por ID](onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Creación de canales y subcanales](onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -76,7 +76,7 @@ ht-degree: 4%
       + [Objeto BT](definitions/crm-objects/bt-object.md)
       + [Objeto BAT](definitions/crm-objects/bat-object.md)
       + [Persona de Marketo Measure](definitions/crm-objects/marketo-measure-person.md)
-   + Parámetros de UTM{#utm-parameters}
+   + Parámetros UTM{#utm-parameters}
       + [Cómo [!DNL Marketo Measure] etiquetado funciona](definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conexión de plataformas integradas con [!DNL Marketo Measure]](definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomía de un parámetro UTM](definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
