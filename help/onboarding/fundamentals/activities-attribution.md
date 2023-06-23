@@ -1,18 +1,18 @@
 ---
-title: Atribución de actividades
-description: Obtenga información sobre la atribución de actividades en Marketo Measure. Esta función le permite crear touchpoints a partir del objeto Actividades en Salesforce mediante registros de Tarea o Evento.
-kt: 11229
+title: Atribución de actividades de
+description: Obtenga información acerca de la atribución de actividades en Marketo Measure. Esta función le permite crear puntos de contacto a partir del objeto de actividades en Salesforce mediante registros de tareas o eventos.
+jira: KT-11229
 thumbnail: 347192.jpeg
 exl-id: 76e40127-e293-4b94-a071-ff48465c9b11
-source-git-commit: 9e38b740e29a827d5d64ef4e7fbf9e18dcf30643
+source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '52'
+ht-degree: 7%
 
 ---
 
-# Atribución de actividades
+# Atribución de actividades de 
 
-Esta lección abarca [!UICONTROL Atribución de actividades]. Esta función le permite crear touchpoints a partir del objeto Actividades en Salesforce mediante registros de Tarea o Evento.
+Esta lección explica [!UICONTROL Atribución de actividades]. Esta función le permite crear puntos de contacto a partir del objeto de actividades en Salesforce mediante registros de tareas o eventos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347192/?quality=12&learn=on)
