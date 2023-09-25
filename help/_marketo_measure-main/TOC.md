@@ -2,7 +2,8 @@
 user-guide-title: "[!DNL Marketo Measure] Tutoriales"
 breadcrumb-title: "[!DNL Marketo Measure] Tutoriales"
 user-guide-description: Aprenda a sacar el máximo partido a [!DNL Adobe Marketo Measure] (anteriormente, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] aspectos básicos y definiciones.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 6%
@@ -59,7 +60,7 @@ ht-degree: 6%
       + [Puntos de contacto de Milestone](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Componentes de Touchpoint](/help/definitions/touchpoints/touchpoint-components.md)
       + [Puntos de contacto en línea y sin conexión](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Atributo{#attribution}
+   + Atribución{#attribution}
       + [Qué es la atribución](/help/definitions/attribution/what-is-attribution.md)
       + [Modelos de atribución](/help/definitions/attribution/attribution-models.md)
       + [Modelo de primer contacto](/help/definitions/attribution/first-touch-model.md)
