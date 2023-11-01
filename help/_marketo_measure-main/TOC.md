@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutoriales"
 breadcrumb-title: "[!DNL Marketo Measure] Tutoriales"
 user-guide-description: Aprenda a sacar el máximo partido a [!DNL Adobe Marketo Measure] (anteriormente, [!DNL Bizible]). Vea tutoriales sobre la instalación, la incorporación y los aspectos básicos de , así como las definiciones.
 auto-video-transcripts: true
-source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
+source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '328'
 ht-degree: 8%
 
 ---
@@ -66,6 +66,9 @@ ht-degree: 8%
       + [Atribución de actividades](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [Introducción a [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [Panel de información general de Discover](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
+   + [Descubra los ingresos atribuidos](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
+   + [Descubrir tablero de ROI](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Determinar qué canal está funcionando (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determine qué canal está funcionando (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Informes De Embudo De Descubrimiento (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
