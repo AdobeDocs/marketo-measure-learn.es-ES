@@ -1,7 +1,7 @@
 ---
 title: Qué es la atribución
-description: Esta lección proporciona una definición de atribución, una comparación de métodos de atribución de un solo toque y de varios toques, y una comparación de atribución entre negocios B2C y B2B.
-short-description: Esta lección compara los métodos de atribución de un solo toque y de varios toques, y compara la atribución entre los negocios B2C y B2B.
+description: Esta lección proporciona una definición de atribución, una comparación de métodos de atribución unitoque y multitoque, y una comparación de atribución entre negocios B2C y B2B.
+short-description: Esta lección compara los métodos de atribución unitoque y multitoque, y compara la atribución entre los negocios B2C y B2B.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 90%
 
 ---
 
 # Qué es la atribución
 
-Esta lección proporciona una definición de atribución, una comparación de métodos de atribución de un solo toque y de varios toques, y una comparación de atribución entre negocios B2C y B2B.
+Esta lección proporciona una definición de atribución, una comparación de métodos de atribución unitoque y multitoque, y una comparación de atribución entre negocios B2C y B2B.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
