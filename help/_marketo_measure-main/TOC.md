@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutoriales"
-breadcrumb-title: "[!DNL Marketo Measure] Tutoriales"
-user-guide-description: Aprenda a sacar el máximo partido a  [!DNL Adobe Marketo Measure]  (anteriormente, [!DNL Bizible]). Vea tutoriales sobre la instalación, la incorporación y los aspectos básicos y las definiciones.
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: Aprenda a sacar el máximo partido a [!DNL Adobe Marketo Measure] (anteriormente, [!DNL Bizible]). Vea tutoriales sobre la instalación, la incorporación y los aspectos básicos y las definiciones.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 11%
+source-wordcount: '334'
+ht-degree: 3%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
       + [Revisar la configuración de canal e integración (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [Configuración de CRM (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
       + [Configuración de posibles clientes, contactos y oportunidades](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
-      + [Configuración del canal en línea](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Configuración de canal en línea](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Información general de conexión de anuncios](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [Información general sobre la instalación de SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configuración de canal sin conexión](/help/onboarding/fundamentals/offline-channel-setup.md)
@@ -53,7 +53,7 @@ ht-degree: 11%
       + [El [!DNL Marketo Measure] Paneles de ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Informes de Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Informes adicionales de Salesforce](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse de  ](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Almacenamiento de datos](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] y Salesforce{#marketo-measure-salesforce}
       + [Informe de posibles clientes por ID](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Creación de canales y subcanales](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -72,10 +72,8 @@ ht-degree: 11%
    + [Determinar qué canal está funcionando (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determine qué canal está funcionando (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Informes De Embudo De Descubrimiento (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Chat en directo {#live-chat}
-   + [Métricas y atribución de marketing](/help/_assets/marketing/attribution y metrics.md)
 + Definiciones{#definitions}
-   + Puntos de contacto{#touchpoints}
+   + Touchpoints{#touchpoints}
       + [¿Qué es un punto de contacto?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Puntos de contacto de Milestone](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Componentes de Touchpoint](/help/definitions/touchpoints/touchpoint-components.md)
@@ -97,7 +95,7 @@ ht-degree: 11%
       + [Objeto BT](/help/definitions/crm-objects/bt-object.md)
       + [objeto BAT](/help/definitions/crm-objects/bat-object.md)
       + [persona de Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
-   + Parámetros UTM{#utm-parameters}
+   + Parámetros de UTM{#utm-parameters}
       + [Cómo [!DNL Marketo Measure] trabajos de etiquetado](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conexión de plataformas integradas con [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Estructura de un parámetro de UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
@@ -112,3 +110,5 @@ ht-degree: 11%
    + Fase boomerang{#boomerang-stage}
       + [Introducción a las etapas de boomerang](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Configuración de fases de boomerang](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Charlas evangelistas {#evangelist}
+   + [Métricas y atribución de marketing](/help/evangelist-talks/attribution-and-metrics.md)
