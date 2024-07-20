@@ -1,6 +1,6 @@
 ---
-title: Uso de [!DNL Marketo Measure] como experto en marketing por correo electrónico
-description: Esta lección proporciona una demostración rápida de cómo los especialistas en marketing de correo electrónico pueden utilizar [!DNL Marketo Measure] en su puesto.
+title: Usando  [!DNL Marketo Measure] como experto en marketing por correo electrónico
+description: Esta lección proporciona una demostración rápida de cómo los especialistas en marketing por correo electrónico podrían usar  [!DNL Marketo Measure]  en su rol.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Uso de [!DNL Marketo Measure] como experto en marketing por correo electrónico
 
-Esta lección proporciona una demostración rápida de cómo los especialistas en marketing de correo electrónico pueden utilizar [!DNL Marketo Measure] en su puesto.
+Esta lección proporciona una demostración rápida de cómo los especialistas en marketing por correo electrónico podrían usar [!DNL Marketo Measure] en su rol.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){transcript=true}

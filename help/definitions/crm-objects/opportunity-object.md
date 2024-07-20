@@ -1,6 +1,6 @@
 ---
 title: Objeto Opportunity
-description: Vea un desglose de la relación entre [!DNL Marketo Measure] y el objeto Opportunity.
+description: Vea un desglose de la relación entre  [!DNL Marketo Measure]  y el objeto de oportunidad.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objeto Opportunity
 
-Vea un desglose de la relación entre [!DNL Marketo Measure] y el objeto Opportunity.
+Vea un desglose de la relación entre [!DNL Marketo Measure] y el objeto de oportunidad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

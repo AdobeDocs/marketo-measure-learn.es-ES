@@ -1,6 +1,6 @@
 ---
-title: Por qué [!DNL Marketo Measure] para medios de pago/generales a petición
-description: Esta lección resume lo siguiente [!DNL Marketo Measure]Las funciones clave de y el valor de para los equipos de Demand Gen y medios de pago.
+title: Por qué [!DNL Marketo Measure] para medios de pago/generación de demanda
+description: Esta lección resume las características clave y el valor de  [!DNL Marketo Measure] para los equipos de generación de demanda y medios de pago.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Por qué [!DNL Marketo Measure] para medios de pago/generales a petición
+# Por qué [!DNL Marketo Measure] para medios de pago/generación de demanda
 
-Esta lección resume lo siguiente [!DNL Marketo Measure]Las funciones clave de y el valor de para los equipos de Demand Gen y medios de pago.
+Esta lección resume las características clave y el valor de [!DNL Marketo Measure] para los equipos de generación de demanda y medios de pago.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Puntos de contacto por cuenta] informe
+# Informe de [!UICONTROL puntos de contacto por cuenta]
 
 Este tutorial explica cómo crear un informe de punto de contacto en una cuenta de.
 

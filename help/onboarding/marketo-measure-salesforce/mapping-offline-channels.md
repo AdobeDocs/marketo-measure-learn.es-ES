@@ -1,6 +1,6 @@
 ---
 title: Asignación de canales sin conexión
-description: Esta lección trata sobre la asignación de canales sin conexión a [!DNL Marketo Measure] con el objeto de campaña de Salesforce y el campo Tipos de campaña.
+description: Esta lección cubre la asignación de canales sin conexión a  [!DNL Marketo Measure] con el objeto de campaña de Salesforce y el campo Tipos de campaña.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Asignación de canales sin conexión
 
-Esta lección trata sobre la asignación de canales sin conexión a [!DNL Marketo Measure] con el objeto de campaña de Salesforce y el campo Tipos de campaña.
+Esta lección cubre la asignación de canales sin conexión a [!DNL Marketo Measure] con el objeto de campaña de Salesforce y el campo Tipos de campaña.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}

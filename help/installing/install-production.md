@@ -1,6 +1,6 @@
 ---
 title: Instalación (instancia de producción)
-description: Obtenga información acerca de la instalación de una instancia de producción de [!DNL Marketo Measure].
+description: Obtenga información acerca de la instalación de una instancia de producción de  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,11 +12,11 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 0%
+ht-degree: 31%
 
 ---
 
-# [!DNL Marketo Measure] instalación (instancia de producción)
+# Instalación de [!DNL Marketo Measure] (instancia de producción)
 
 Obtenga información acerca de la instalación de una instancia de producción de [!DNL Marketo Measure].
 

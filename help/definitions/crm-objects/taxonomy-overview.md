@@ -1,6 +1,6 @@
 ---
-title: Información general de [!DNL Marketo Measure] taxonomía
-description: Vea una descripción general de cómo [!DNL Marketo Measure] recopila y procesa datos mediante varias entradas para proporcionar datos de atribución.
+title: Información general sobre  [!DNL Marketo Measure] taxonomía
+description: Vea una descripción general de cómo  [!DNL Marketo Measure] recopila y procesa datos usando varias entradas para proporcionar datos de atribución.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Información general de [!DNL Marketo Measure] taxonomía
+# Información general sobre la taxonomía [!DNL Marketo Measure]
 
-Obtenga información general sobre cómo [!DNL Marketo Measure] recopila y procesa datos mediante varias entradas para proporcionar datos de atribución.
+Obtenga información general sobre cómo [!DNL Marketo Measure] recopila y procesa datos usando varias entradas para proporcionar datos de atribución.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

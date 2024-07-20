@@ -1,6 +1,6 @@
 ---
 title: Creación de canales y subcanales
-description: Esta lección explica cómo crear y mantener jerarquías y nombres de canales y subcanales en [!DNL Marketo Measure].
+description: Esta lección explica cómo crear y mantener jerarquías y nombres de canales y subcanales en  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video

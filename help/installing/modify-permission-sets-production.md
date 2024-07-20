@@ -1,6 +1,6 @@
 ---
 title: Modificación de conjuntos de permisos (instancia de producción)
-description: Obtenga información sobre cómo modificar conjuntos de permisos en [!DNL Marketo Measure] (instancia de producción).
+description: Aprenda a modificar conjuntos de permisos en  [!DNL Marketo Measure]  (instancia de producción).
 role: User
 level: Beginner
 doc-type: Feature Video

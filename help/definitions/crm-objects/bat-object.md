@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Objeto Touchpoint de atribución"
-description: Más información [!DNL Marketo Measure] [!UICONTROL Puntos de contacto de atribución].
+title: "[!DNL Marketo Measure] objeto de punto de contacto de atribución"
+description: Más información sobre [!DNL Marketo Measure] [!UICONTROL Puntos de contacto de atribución].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] objeto
+# [!DNL Marketo Measure] [!UICONTROL punto de contacto de atribución] objeto
 
-Más información [!DNL Marketo Measure] [!UICONTROL Puntos de contacto de atribución].
+Obtenga información acerca de [!DNL Marketo Measure] [!UICONTROL puntos de contacto de atribución].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}

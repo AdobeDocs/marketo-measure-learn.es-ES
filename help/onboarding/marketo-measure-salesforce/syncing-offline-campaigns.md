@@ -1,6 +1,6 @@
 ---
 title: Sincronización de campañas sin conexión
-description: Esta lección explica cómo sincronizar campañas de CRM de Salesforce con [!DNL Marketo Measure] - individualmente o en bloque.
+description: 'Esta lección explica cómo sincronizar campañas de CRM de Salesforce con  [!DNL Marketo Measure] : de forma individual o en lotes.'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 16%
 
 # Sincronización de campañas sin conexión
 
-Esta lección explica cómo sincronizar campañas de CRM de Salesforce con [!DNL Marketo Measure] - individualmente o en bloque.
+Esta lección explica cómo sincronizar campañas de CRM de Salesforce con [!DNL Marketo Measure]: de forma individual o en lotes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Etiquetado UTM
-description: Vea un tutorial sobre qué es una UTM y cómo funcionan con [!DNL Marketo Measure].
+description: Vea un tutorial sobre qué es una UTM y cómo funcionan con  [!DNL Marketo Measure].
 jira: KT-11234
 thumbnail: 347204.jpeg
 exl-id: 447ec263-6585-409f-8300-d92fcc6289d6

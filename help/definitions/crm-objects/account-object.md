@@ -1,6 +1,6 @@
 ---
 title: Objeto Account
-description: Obtenga información acerca de la relación entre [!DNL Marketo Measure] y el objeto de cuenta.
+description: Obtenga información acerca de la relación entre [!DNL Marketo Measure]  y el objeto de cuenta.
 role: User
 level: Beginner
 doc-type: Feature Video

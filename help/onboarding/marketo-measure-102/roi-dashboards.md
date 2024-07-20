@@ -1,6 +1,6 @@
 ---
-title: El [!DNL Marketo Measure] Paneles de ROI
-description: Esta lección proporciona información general sobre los paneles configurables disponibles en [!DNL Marketo Measure].
+title: Los [!DNL Marketo Measure] Paneles de ROI
+description: Esta lección proporciona información general sobre los paneles configurables disponibles en  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# El [!DNL Marketo Measure] Paneles de ROI
+# Los paneles de ROI de [!DNL Marketo Measure]
 
 Esta lección proporciona información general sobre los paneles configurables disponibles en [!DNL Marketo Measure].
 

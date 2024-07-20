@@ -1,6 +1,6 @@
 ---
 title: Por qué [!DNL Marketo Measure] para CMO y VP
-description: Esta lección resume lo siguiente [!DNL Marketo Measure]Las características clave de y su valor para los CMO y otros líderes de marketing de alto nivel.
+description: Esta lección resume las características clave y el valor de  [!DNL Marketo Measure] para los CMO y otros líderes de marketing de alto nivel.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Por qué [!DNL Marketo Measure] para CMO y VP
 
-Esta lección resume lo siguiente [!DNL Marketo Measure]Las características clave de y su valor para los CMO y otros líderes de marketing de alto nivel.
+Esta lección resume las características clave y el valor de [!DNL Marketo Measure] para los CMO y otros líderes de marketing de alto nivel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

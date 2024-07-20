@@ -1,6 +1,6 @@
 ---
 title: Informes de Salesforce de Stock
-description: Esta lección abarca los informes y objetos de datos estándar y creados previamente de Salesforce CRM incluidos con [!DNL Marketo Measure].
+description: Esta lección cubre los informes y objetos de datos estándar generados previamente de Salesforce CRM incluidos con  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Informes de Salesforce de Stock
 
-Esta lección abarca los informes y objetos de datos estándar y creados previamente de Salesforce CRM incluidos con [!DNL Marketo Measure].
+Esta lección cubre los informes y objetos de datos estándar generados previamente por Salesforce CRM incluidos con [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

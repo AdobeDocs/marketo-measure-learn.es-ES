@@ -1,6 +1,6 @@
 ---
-title: Cree el [!DNL Marketo Measure] account
-description: Cree el [!DNL Marketo Measure] (anteriormente Bizible) y conectar plataformas de publicidad (instancia de producción).
+title: Crear la cuenta  [!DNL Marketo Measure]
+description: Cree la cuenta  [!DNL Marketo Measure]  (anteriormente Bizible) y conecte las plataformas de publicidad (instancia de producción).
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Cree el [!DNL Marketo Measure] account
+# Crear la cuenta [!DNL Marketo Measure]
 
-Obtenga información sobre cómo crear el [!DNL Marketo Measure] y para conectarse a plataformas de publicidad (instancia de producción).
+Obtenga información sobre cómo crear la cuenta de [!DNL Marketo Measure] y conectar plataformas de publicidad (instancia de producción).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}

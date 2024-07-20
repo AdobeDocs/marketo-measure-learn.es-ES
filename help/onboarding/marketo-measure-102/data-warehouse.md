@@ -1,6 +1,6 @@
 ---
-title: Data Warehouse de
-description: Esta lección describe [!DNL Marketo Measure] Data Warehouse y proporciona ejemplos que ilustran qué datos están disponibles y los informes que puede realizar con la herramienta de BI que elija.
+title: Almacenamiento de datos
+description: En esta lección se describe la Data Warehouse de  [!DNL Marketo Measure] y se proporcionan ejemplos que ilustran los datos disponibles y los informes que puede realizar con la herramienta de inteligencia de negocios que elija.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 7%
 
 ---
 
-# Data Warehouse de  
+# Almacenamiento de datos
 
-Esta lección describe [!DNL Marketo Measure] Data Warehouse y proporciona ejemplos que ilustran qué datos están disponibles y los informes que puede realizar con la herramienta de BI que elija.
+En esta lección se describe la Data Warehouse de [!DNL Marketo Measure] y se proporcionan ejemplos que ilustran los datos disponibles y los informes que puede realizar con la herramienta de BI que elija.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}

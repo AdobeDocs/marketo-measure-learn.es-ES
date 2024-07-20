@@ -1,5 +1,5 @@
 ---
-title: Modelo de primer contacto
+title: Modelo de primer toque
 description: Este vídeo proporciona una explicación detallada del modelo de primer contacto.
 role: User
 level: Beginner
@@ -12,11 +12,11 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 20%
+ht-degree: 0%
 
 ---
 
-# Modelo de primer contacto
+# Modelo de primer toque
 
 Este vídeo proporciona una explicación detallada del modelo de primer contacto.
 

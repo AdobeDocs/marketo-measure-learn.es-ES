@@ -8,13 +8,13 @@ doc-type: Event
 last-substantial-update: 2023-12-01T00:00:00Z
 jira: KT-14614
 thumbnail: 3425898.jpeg
-source-git-commit: acdc66192147c1716e2f4be57608616b9cba4de5
+exl-id: f1e11f9c-a88f-4c7d-9678-559a5c8a9e86
+source-git-commit: 34a9d11cfd6d4fa58df4961b92ea4be52dba3588
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Métricas y atribución de marketing
 
@@ -26,8 +26,8 @@ Andy Schneider, consultor de soluciones de Adobe, e Ian Michels, evangelista de 
 
 **3:00** - *Definición de atribución y métricas*
 **6:00** - *Métricas de caldera*
-**7:00** - *Atribución de un solo toque y escalado a multitáctil*
-**12:00** - *La atribución multitáctil mejora las perspectivas*
-**17:40** - *Las métricas y la atribución de marketing funcionan juntas*
+**7:00** - *Atribución de un solo toque y escalado a multitoque*
+**12:00** - *La atribución de múltiples contactos mejora la información*
+**17:40** - *La atribución y las métricas de marketing funcionan juntas*
 **19:38** - *Herramientas de atribución de marketing de ámbito*
-**24:00** - *Siga creciendo con la atribución de marketing*
+**24:00** - *Sigue creciendo con la atribución de marketing*

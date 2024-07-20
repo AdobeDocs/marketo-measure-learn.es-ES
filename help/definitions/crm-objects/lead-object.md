@@ -1,6 +1,6 @@
 ---
 title: Objeto de posible cliente
-description: Vea un desglose de la relación entre el objeto principal y el [!DNL Marketo Measure] Objeto Touchpoint.
+description: Vea un desglose de la relación entre el objeto principal y el objeto  [!DNL Marketo Measure] Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objeto de posible cliente
 
-Vea un desglose de la relación entre el objeto principal y el [!DNL Marketo Measure] Objeto Touchpoint.
+Vea un desglose de la relación entre el objeto principal y el objeto de punto de contacto [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

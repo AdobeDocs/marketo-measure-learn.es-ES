@@ -1,6 +1,6 @@
 ---
 title: Componentes de Touchpoint
-description: Obtenga un desglose de los distintos componentes de los puntos de contacto y cómo se definen. Este ejemplo interrumpe los componentes de BT y BAT.
+description: Obtenga un desglose de los distintos componentes de los puntos de contacto y cómo se definen. BT BAT Este ejemplo rompe componentes tanto de la como de la.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11324
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Componentes de Touchpoint
 
-Obtenga un desglose de los distintos componentes de los puntos de contacto y cómo se definen. Este ejemplo interrumpe los componentes de BT y BAT.
+Obtenga un desglose de los distintos componentes de los puntos de contacto y cómo se definen. BT BAT Este ejemplo rompe componentes tanto de la como de la.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}

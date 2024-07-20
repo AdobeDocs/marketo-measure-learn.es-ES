@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # [!UICONTROL Cuentas por puntuación de participación]
 
-Una visión general de alto nivel de la [!UICONTROL Cuenta por puntuación de participación].  Este tutorial analiza qué métricas entran en esta puntuación y el informe asociado a ella.
+Información general de alto nivel sobre [!UICONTROL Cuenta por puntuación de participación].  Este tutorial analiza qué métricas entran en esta puntuación y el informe asociado a ella.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}

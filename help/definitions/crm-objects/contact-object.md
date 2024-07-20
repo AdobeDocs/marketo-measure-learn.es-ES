@@ -1,6 +1,6 @@
 ---
 title: Objeto Contact
-description: Vea un desglose de la relación entre el objeto de contacto y el [!DNL Marketo Measure] Touchpoint y el objeto [!DNL Marketo Measure] Objeto Touchpoint de atribución.
+description: Vea un desglose de la relación entre el objeto de contacto y el objeto  [!DNL Marketo Measure] Touchpoint y el objeto [!DNL Marketo Measure] Attribution Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objeto Contact
 
-Este vídeo desglosa la relación entre el objeto de contacto y el [!DNL Marketo Measure] Touchpoint y el objeto [!DNL Marketo Measure] Objeto Touchpoint de atribución.
+Este vídeo desglosa la relación entre el objeto de contacto y el objeto Touchpoint [!DNL Marketo Measure] y el objeto Touchpoint de atribución [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

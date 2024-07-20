@@ -1,6 +1,6 @@
 ---
 title: Puntos de contacto de Milestone
-description: Obtenga información acerca de los hitos principales de [!DNL Marketo Measure] y cómo se crean.
+description: Obtenga información acerca de los hitos principales de  [!DNL Marketo Measure]  y cómo se crean.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
