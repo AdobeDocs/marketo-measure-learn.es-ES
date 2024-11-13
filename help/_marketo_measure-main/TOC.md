@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Aprenda a sacar el máximo partido a  [!DNL Adobe Marketo Measure]  (anteriormente, [!DNL Bizible]). Vea tutoriales sobre la instalación, la incorporación y los aspectos básicos y las definiciones.
 auto-video-transcripts: true
-source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
+source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 4%
+source-wordcount: '365'
+ht-degree: 5%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 4%
 # [!DNL Marketo Measure] Tutoriales {#tutorials}
 
 + [[!DNL Marketo Measure] Tutoriales](overview.md)
++ [Información general de Marketo Measure](/help/marketo-measure-overview.md)
 + Instalación de Marketo Measure {#install}
    + [Instalación de Marketo Measure](/help/installing/install-production.md)
    + [Modificar conjuntos de permisos](/help/installing/modify-permission-sets-production.md)
@@ -51,7 +52,7 @@ ht-degree: 4%
       + [Modelos de atribución](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [Los [!DNL Marketo Measure] paneles de ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
-      + [Informes de Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
+      + [Informes de Salesforce de Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Informes adicionales de Salesforce](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse ](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] y Salesforce{#marketo-measure-salesforce}
