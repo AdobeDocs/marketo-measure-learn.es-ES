@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutorials"
-breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-title: '[!DNL Marketo Measure] Tutoriales'
+breadcrumb-title: '[!DNL Marketo Measure] Tutoriales'
 user-guide-description: Aprenda a sacar el máximo partido a  [!DNL Adobe Marketo Measure]  (anteriormente, [!DNL Bizible]). Vea tutoriales sobre la instalación, la incorporación y los aspectos básicos y las definiciones.
 auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 

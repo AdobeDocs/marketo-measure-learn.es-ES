@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Marketo Measure] objeto de punto de contacto de atribución"
+title: Objeto de punto de contacto de atribución [!DNL Marketo Measure]
 description: Más información sobre [!DNL Marketo Measure] [!UICONTROL Puntos de contacto de atribución].
 role: User
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 272bc6aa-71db-4b9c-b93a-d0b1030609c4
 feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
