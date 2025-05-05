@@ -26,5 +26,5 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 ## Eventos de Experience League Live
 
-* **[Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *Obtenga información acerca de los nuevos paneles de Discover completamente renovados.*
