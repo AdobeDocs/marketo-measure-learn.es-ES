@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección cubre los informes y objetos de datos estándar generados previamente por Salesforce CRM incluidos con [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421984/?learn=on&captions=spa){transcript=true}

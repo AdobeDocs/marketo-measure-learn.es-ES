@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Esta lección resume las características clave y el valor de [!DNL Marketo Measure] para los CMO y otros líderes de marketing de alto nivel.
 
->[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422200/?learn=on&captions=spa){transcript=true}

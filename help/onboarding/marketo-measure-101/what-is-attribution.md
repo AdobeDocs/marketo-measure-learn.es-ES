@@ -21,4 +21,4 @@ ht-degree: 89%
 
 Esta lección proporciona una definición de atribución, una comparación de métodos de atribución unitoque y multitoque, y una comparación de atribución entre negocios B2C y B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421966/?learn=on&captions=spa){transcript=true}

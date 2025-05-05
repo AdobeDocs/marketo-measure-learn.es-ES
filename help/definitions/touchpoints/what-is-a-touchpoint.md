@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda una de las formas de crear un punto de contacto digital.
 
->[!VIDEO](https://video.tv.adobe.com/v/347210/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421811/?learn=on&captions=spa){transcript=true}

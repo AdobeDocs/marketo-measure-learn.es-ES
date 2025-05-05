@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Este tutorial explica cómo crear un informe de punto de contacto en una cuenta de.
 
->[!VIDEO](https://video.tv.adobe.com/v/347226/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422313/?learn=on&captions=spa){transcript=true}

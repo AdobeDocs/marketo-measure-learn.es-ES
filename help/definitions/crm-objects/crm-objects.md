@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vea un desglose de la relación entre los objetos estándar de CRM y [!DNL Marketo Measure] objetos y campos personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422220/?learn=on&captions=spa){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Vea información general de alto nivel sobre [!UICONTROL Discover] y sus diversos tableros. En esta lección, aprenda sobre casos de uso comunes de creación de informes para varios de los paneles y mosaicos de Discover.
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422341/?learn=on&captions=spa){transcript=true}

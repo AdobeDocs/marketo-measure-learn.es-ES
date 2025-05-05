@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Aprenda a conectar una plataforma de publicidad a su cuenta de [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422329/?learn=on&captions=spa){transcript=true}

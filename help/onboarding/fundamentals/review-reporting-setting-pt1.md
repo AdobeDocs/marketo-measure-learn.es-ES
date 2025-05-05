@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Información general sobre la configuración de creación de informes en Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453711/?learn=on&captions=spa){transcript=true}

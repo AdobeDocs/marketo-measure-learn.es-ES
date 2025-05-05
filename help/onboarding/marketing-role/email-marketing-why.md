@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Esta lección resume las características clave y el valor de [!DNL Marketo Measure] para los especialistas en marketing por correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421978/?learn=on&captions=spa){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección trata los informes de atribución personalizados en Salesforce CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421941/?learn=on&captions=spa){transcript=true}

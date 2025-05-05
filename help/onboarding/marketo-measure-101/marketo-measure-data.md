@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección proporciona información general sobre [!DNL Marketo Measure] orígenes de datos que incluyen [!DNL Marketo Measure] JavaScript, integraciones de API, parámetros de UTM, datos CRM y datos ingresados manualmente.
 
->[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421947/?learn=on&captions=spa){transcript=true}

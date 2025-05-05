@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga información acerca de la diferencia entre los puntos de contacto en línea y los puntos de contacto sin conexión y cómo se crean.
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421799/?learn=on&captions=spa){transcript=true}

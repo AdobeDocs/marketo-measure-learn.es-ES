@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información acerca de un punto de contacto [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422233/?learn=on&captions=spa){transcript=true}

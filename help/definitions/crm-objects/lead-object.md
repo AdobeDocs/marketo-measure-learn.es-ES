@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vea un desglose de la relación entre el objeto principal y el objeto de punto de contacto [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422216/?learn=on&captions=spa){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo desglosa la relación entre el objeto de contacto y el objeto Touchpoint [!DNL Marketo Measure] y el objeto Touchpoint de atribución [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422212/?learn=on&captions=spa){transcript=true}

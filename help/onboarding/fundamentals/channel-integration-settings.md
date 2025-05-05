@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Información general sobre el canal y la configuración de la integración en Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452374/?learn=on&captions=spa){transcript=true}

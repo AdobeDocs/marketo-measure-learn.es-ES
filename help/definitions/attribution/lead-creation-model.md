@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo proporciona una explicación detallada del modelo de creación de posibles clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421366/?learn=on&captions=spa){transcript=true}

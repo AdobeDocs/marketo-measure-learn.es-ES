@@ -16,4 +16,4 @@ ht-degree: 0%
 
 En este tutorial se describe el informe [!UICONTROL Contactos de cuenta y posibles clientes] junto con la información de ambos y cómo conecta esos objetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422321/?learn=on&captions=spa){transcript=true}

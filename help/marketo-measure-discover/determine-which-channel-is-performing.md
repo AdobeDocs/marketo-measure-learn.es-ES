@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este informe se centra en la parte superior a la mitad del canal de marketing. Una vez creado el informe, podrá ver qué canales generan la mayor cantidad de oportunidades, para que a su vez pueda invertir en esos canales de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443743/?learn=on&captions=spa)

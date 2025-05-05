@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección cubre la asignación de canales sin conexión a [!DNL Marketo Measure] con el objeto de campaña de Salesforce y el campo Tipos de campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422238/?learn=on&captions=spa){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 En este informe echamos un vistazo al informe de un canal completo. Este informe de Discover rastreará de principio a fin qué canales se interactuaron y luego atribuirá oportunidades o ingresos a esos canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443754/?learn=on&captions=spa){transcript=true}

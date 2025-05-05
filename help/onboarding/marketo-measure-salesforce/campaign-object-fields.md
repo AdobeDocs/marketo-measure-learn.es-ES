@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección cubre los campos de objeto de Salesforce CRM Campaign que [!DNL Marketo Measure] utiliza para asignar campañas y miembros de campaña a canales de marketing. Es importante comprender lo que hacen estos objetos de campaña a medida que administra y asigna sus canales sin conexión en [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422242/?learn=on&captions=spa){transcript=true}

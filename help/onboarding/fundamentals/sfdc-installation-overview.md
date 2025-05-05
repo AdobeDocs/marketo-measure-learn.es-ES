@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Configuración de instalación de Marketo Measure SFDC
 
->[!VIDEO](https://video.tv.adobe.com/v/3424427/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451808/?learn=on&captions=spa){transcript=true}

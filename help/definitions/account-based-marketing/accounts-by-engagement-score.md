@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Información general de alto nivel sobre [!UICONTROL Cuenta por puntuación de participación].  Este tutorial analiza qué métricas entran en esta puntuación y el informe asociado a ella.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432128/?learn=on&captions=spa){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Vea un tutorial sobre qué es una UTM y cómo funcionan con [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422309/?learn=on&captions=spa){transcript=true}

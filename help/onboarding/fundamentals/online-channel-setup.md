@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Obtenga información acerca de los canales en línea, la creación de canales y la hoja de cálculo de canales en línea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454147/?learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga información acerca de los hitos principales de [!DNL Marketo Measure] y cómo se crean.
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421805/?learn=on&captions=spa){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Esta lección resume las características clave y el valor de [!DNL Marketo Measure] para los equipos de generación de demanda y medios de pago.
 
->[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422247/?learn=on&captions=spa){transcript=true}

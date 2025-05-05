@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo modificar conjuntos de permisos en [!DNL Marketo Measure] (instancia de producción).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421330/?learn=on&captions=spa){transcript=true}

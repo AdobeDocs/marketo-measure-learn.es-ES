@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección proporciona una demostración rápida de cómo los equipos de generación de demanda y medios de pago pueden usar [!DNL Marketo Measure] en su rol.
 
->[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422204/?learn=on&captions=spa){transcript=true}

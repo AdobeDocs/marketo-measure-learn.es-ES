@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Revisión de posibles clientes, contactos y oportunidades de la configuración de CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453722/?learn=on&captions=spa){transcript=true}

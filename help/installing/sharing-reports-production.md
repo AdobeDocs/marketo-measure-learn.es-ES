@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección abarca la visualización y el uso compartido de informes y paneles.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431540/?learn=on&captions=spa){transcript=true}

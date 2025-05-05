@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección proporciona información general sobre los paneles configurables disponibles en [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421990/?learn=on&captions=spa){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Obtenga información acerca del objeto Persona [!DNL Marketo Measure] y cómo crea una búsqueda entre los objetos Cliente potencial y Contacto.
 
->[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422224/?learn=on&captions=spa){transcript=true}

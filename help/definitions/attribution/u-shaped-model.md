@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo proporciona una explicación detallada del modelo en forma de U.
 
->[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421360/?learn=on&captions=spa){transcript=true}

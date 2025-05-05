@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo mostrará un informe de parte superior del canal que, a su vez, le mostrará si Marketo Measure está realizando un seguimiento, si está generando posibles clientes y si la configuración del canal se ha realizado correctamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441783/?learn=on&captions=spa){transcript=true}

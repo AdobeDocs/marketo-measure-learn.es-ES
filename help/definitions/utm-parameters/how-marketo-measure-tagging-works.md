@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Descubra cómo funciona el etiquetado [!DNL Marketo Measure] y acerca del uso de una plataforma de etiquetado integrada.
 
->[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422333/?learn=on&captions=spa){transcript=true}

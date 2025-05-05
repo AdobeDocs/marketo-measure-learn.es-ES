@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo proporciona una explicación detallada del modelo de primer contacto.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421372/?learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga un desglose de los distintos componentes de los puntos de contacto y cómo se definen. BT BAT Este ejemplo rompe componentes tanto de la como de la.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437615/?learn=on&captions=spa){transcript=true}

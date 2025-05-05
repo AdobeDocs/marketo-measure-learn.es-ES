@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección define los modelos de atribución, explica los diferentes modelos incluidos con [!DNL Marketo Measure] y cuándo usar cada uno de ellos.  Se describen los modelos estándar basados en reglas, los modelos personalizados y las recomendaciones de AI/ML.
 
->[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422196/?learn=on&captions=spa){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 En esta lección se describe un informe de posible cliente por ID en Salesforce CRM
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421927/?learn=on&captions=spa){transcript=true}

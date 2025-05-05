@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Este tutorial es una breve descripción general de ABM, incluida una definición de ABM y lo que conforma el grado de participación predictiva. Aprenda a pensar en la puntuación de participación predictiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/347217/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422325/?learn=on&captions=spa){transcript=true}

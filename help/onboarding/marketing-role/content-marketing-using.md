@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección proporciona una demostración rápida de cómo los especialistas en marketing de contenido pueden usar [!DNL Marketo Measure] en su rol.
 
->[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422353/?learn=on&captions=spa){transcript=true}

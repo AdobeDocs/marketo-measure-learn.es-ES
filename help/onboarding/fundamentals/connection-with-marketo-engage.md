@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Descripción general de Marketo Measure conectado con Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3424426/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449379/?learn=on&captions=spa){transcript=true}
