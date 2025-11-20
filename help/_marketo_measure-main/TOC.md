@@ -19,7 +19,7 @@ ht-degree: 7%
    + [Instalación de Marketo Measure](/help/installing/install-production.md)
    + [Modificar conjuntos de permisos](/help/installing/modify-permission-sets-production.md)
    + [Uso compartido y ocultación de informes y paneles](/help/installing/sharing-reports-production.md)
-   + [Crear la cuenta  [!DNL Marketo Measure] ](/help/installing/creating-marketo-measure-account-production.md)
+   + [Crear la cuenta  [!DNL Marketo Measure] &#x200B;](/help/installing/creating-marketo-measure-account-production.md)
 + Incorporación {#onboarding}
    + Mejores prácticas {#best-practices}
       + [Revisar La Configuración De Informes (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -54,7 +54,7 @@ ht-degree: 7%
       + [Los [!DNL Marketo Measure] paneles de ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Informes de Salesforce de Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Informes adicionales de Salesforce](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse ](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse &#x200B;](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] y Salesforce{#marketo-measure-salesforce}
       + [Informe de posibles clientes por ID](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Creación de canales y subcanales](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -97,7 +97,7 @@ ht-degree: 7%
       + [objeto BAT](/help/definitions/crm-objects/bat-object.md)
       + [persona de Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
    + Parámetros UTM {#utm-parameters}
-      + [Cómo funciona el etiquetado  [!DNL Marketo Measure] ](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Cómo funciona el etiquetado  [!DNL Marketo Measure] &#x200B;](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conectando plataformas integradas con  [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Estructura de un parámetro de UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Prácticas recomendadas de UTM](/help/definitions/utm-parameters/utm-best-practices.md)
