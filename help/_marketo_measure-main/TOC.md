@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 6%
    + [Instalación de Marketo Measure](/help/installing/install-production.md)
    + [Modificar conjuntos de permisos](/help/installing/modify-permission-sets-production.md)
    + [Uso compartido y ocultación de informes y paneles](/help/installing/sharing-reports-production.md)
-   + [Crear la cuenta  [!DNL Marketo Measure] &#x200B;](/help/installing/creating-marketo-measure-account-production.md)
-+ Incorporando {#onboarding}
-   + Prácticas recomendadas {#best-practices}
+   + [Crear la cuenta  [!DNL Marketo Measure] ](/help/installing/creating-marketo-measure-account-production.md)
++ Incorporación {#onboarding}
+   + Mejores prácticas {#best-practices}
       + [Revisar La Configuración De Informes (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Revisar la configuración de canal e integración (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [Configuración de CRM (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
@@ -30,7 +30,7 @@ ht-degree: 6%
       + [Información general de conexión de anuncios](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [Información general sobre la instalación de SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configuración de canal sin conexión](/help/onboarding/fundamentals/offline-channel-setup.md)
-      + [Conexión con el Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [Conexión con Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Puntos de contacto de actividad](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Supresión, segmentación y coste](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Función de marketing {#marketing-role}
@@ -54,7 +54,7 @@ ht-degree: 6%
       + [Los [!DNL Marketo Measure] paneles de ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Informes de Salesforce de Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Informes adicionales de Salesforce](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse &#x200B;](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse ](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] y Salesforce{#marketo-measure-salesforce}
       + [Informe de posibles clientes por ID](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Creación de canales y subcanales](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -72,7 +72,7 @@ ht-degree: 6%
    + [Descubrir tablero de ROI](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Determinar qué canal está funcionando (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determine qué canal está funcionando (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [Informes De Embudo De Descubrimiento (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
+   + [Informes De Discover Funnel (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definiciones {#definitions}
    + Puntos de contacto{#touchpoints}
       + [¿Qué es un punto de contacto?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -93,11 +93,11 @@ ht-degree: 6%
       + [Objeto de posible cliente](/help/definitions/crm-objects/lead-object.md)
       + [Objeto Contact](/help/definitions/crm-objects/contact-object.md)
       + [Objeto Opportunity](/help/definitions/crm-objects/opportunity-object.md)
-      + [BT objeto de](/help/definitions/crm-objects/bt-object.md)
-      + [BAT objeto de](/help/definitions/crm-objects/bat-object.md)
+      + [objeto BT](/help/definitions/crm-objects/bt-object.md)
+      + [objeto BAT](/help/definitions/crm-objects/bat-object.md)
       + [persona de Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
-   + Parámetros de UTM {#utm-parameters}
-      + [Cómo funciona el etiquetado  [!DNL Marketo Measure] &#x200B;](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+   + Parámetros UTM {#utm-parameters}
+      + [Cómo funciona el etiquetado  [!DNL Marketo Measure] ](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conectando plataformas integradas con  [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Estructura de un parámetro de UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Prácticas recomendadas de UTM](/help/definitions/utm-parameters/utm-best-practices.md)
@@ -112,11 +112,11 @@ ht-degree: 6%
       + [Introducción a las etapas de boomerang](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Configuración de fases de boomerang](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
-   + [Información general de Marketo Measure Ultimate](/help/marketo-measure-ultimate/overview.md)
-   + [Información general de Attribution AI](/help/marketo-measure-ultimate/attribution-ai-overview.md)
-+ Charlas de evangelistas {#evangelist}
+   + [Información general sobre Marketo Measure Ultimate](/help/marketo-measure-ultimate/overview.md)
+   + [Descripción general de Attribution AI](/help/marketo-measure-ultimate/attribution-ai-overview.md)
++ Charlas evangelistas {#evangelist}
    + [Métricas y atribución de marketing](/help/evangelist-talks/attribution-and-metrics.md)
    + [Madurez de atribución de marketing](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Silos de datos y atribución de marketing](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Grabaciones en directo de Experience League{#experience-league-live-recordings}
-   + [Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
++ Experience League Live Recordings{#experience-league-live-recordings}
+   + [Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
