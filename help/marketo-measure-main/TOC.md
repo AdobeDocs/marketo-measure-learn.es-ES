@@ -119,4 +119,4 @@ ht-degree: 7%
    + [Madurez de atribución de marketing](/help/marketo-measure-main/evangelist-talks/marketing-attribution-maturity.md)
    + [Silos de datos y atribución de marketing](/help/marketo-measure-main/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live Recordings{#experience-league-live-recordings}
-   + [Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
