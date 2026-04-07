@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lección explica cómo crear y mantener jerarquías y nombres de canales y subcanales en [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421396/?captions=spa&learn=on){transcript=true}

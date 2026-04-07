@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Conozca las prácticas recomendadas de [!DNL Marketo Measure] UTM.
 
->[!VIDEO](https://video.tv.adobe.com/v/347203/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422301/?captions=spa&learn=on){transcript=true}

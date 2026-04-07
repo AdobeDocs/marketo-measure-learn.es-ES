@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga un desglose de los distintos componentes de los puntos de contacto y cómo se definen. Este ejemplo interrumpe los componentes de BT y BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437615/?captions=spa&learn=on){transcript=true}

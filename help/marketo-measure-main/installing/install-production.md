@@ -20,4 +20,4 @@ ht-degree: 35%
 
 Obtenga información acerca de la instalación de una instancia de producción de [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421817/?captions=spa&learn=on){transcript=true}

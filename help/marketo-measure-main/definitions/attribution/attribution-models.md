@@ -18,4 +18,4 @@ ht-degree: 8%
 
 Obtenga información general sobre los modelos de atribución predeterminados en [!DNL Marketo Measure]. Obtenga información acerca de la diferencia entre los modelos de un solo contacto y los modelos multitáctil.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421787/?captions=spa&learn=on){transcript=true}

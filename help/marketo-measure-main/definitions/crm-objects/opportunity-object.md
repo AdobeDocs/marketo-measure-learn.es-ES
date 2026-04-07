@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vea un desglose de la relación entre [!DNL Marketo Measure] y el objeto de oportunidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421953/?captions=spa&learn=on){transcript=true}
