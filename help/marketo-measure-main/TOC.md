@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de [!DNL Marketo Measure]
 breadcrumb-title: Tutoriales de [!DNL Marketo Measure]
 user-guide-description: Aprenda a sacar el máximo partido a  [!DNL Adobe Marketo Measure]  (anteriormente, [!DNL Bizible]). Vea tutoriales sobre la instalación, la incorporación y los aspectos básicos y las definiciones.
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
    + [Instalación de Marketo Measure](/help/marketo-measure-main/installing/install-production.md)
    + [Modificar conjuntos de permisos](/help/marketo-measure-main/installing/modify-permission-sets-production.md)
    + [Uso compartido y ocultación de informes y paneles](/help/marketo-measure-main/installing/sharing-reports-production.md)
-   + [Crear la cuenta  [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/installing/creating-marketo-measure-account-production.md)
+   + [Crear la cuenta  [!DNL Marketo Measure] ](/help/marketo-measure-main/installing/creating-marketo-measure-account-production.md)
 + Incorporación {#onboarding}
    + Mejores prácticas {#best-practices}
       + [Revisar La Configuración De Informes (Pt.1)](/help/marketo-measure-main/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -34,15 +34,15 @@ ht-degree: 7%
       + [Puntos de contacto de actividad](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [Supresión, segmentación y coste](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Función de marketing {#marketing-role}
-      + [Por qué [!DNL Marketo Measure] para CMO y VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[Por qué [!DNL Marketo Measure] para CMO y VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Usando  [!DNL Marketo Measure] como CMO o VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [Por qué [!DNL Marketo Measure] para los medios de pago/generación de demanda](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[Por qué [!DNL Marketo Measure] para los medios de pago/generación de demanda](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [Usar  [!DNL Marketo Measure]  como experto en marketing de medios de pago/generador de demanda](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [Por qué [!DNL Marketo Measure] para el marketing de contenido](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + {hide-from-toc}[Por qué [!DNL Marketo Measure] para el marketing de contenido](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [Usar  [!DNL Marketo Measure] como experto en marketing de contenido](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [Por qué  [!DNL Marketo Measure] para el marketing de eventos](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[Por qué [!DNL Marketo Measure] para el marketing de eventos](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [Usar  [!DNL Marketo Measure] como experto en marketing de eventos](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [Por qué [!DNL Marketo Measure] para el marketing por correo electrónico](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + {hide-from-toc}[Por qué [!DNL Marketo Measure] para el marketing por correo electrónico](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [Usar  [!DNL Marketo Measure]  como experto en marketing por correo electrónico](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [Qué es la atribución](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
@@ -97,7 +97,7 @@ ht-degree: 7%
       + [objeto BAT](/help/marketo-measure-main/definitions/crm-objects/bat-object.md)
       + [persona de Marketo Measure](/help/marketo-measure-main/definitions/crm-objects/marketo-measure-person.md)
    + Parámetros UTM {#utm-parameters}
-      + [Cómo funciona el etiquetado  [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Cómo funciona el etiquetado  [!DNL Marketo Measure] ](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conectando plataformas integradas con  [!DNL Marketo Measure]](/help/marketo-measure-main/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Estructura de un parámetro de UTM](/help/marketo-measure-main/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Prácticas recomendadas de UTM](/help/marketo-measure-main/definitions/utm-parameters/utm-best-practices.md)
@@ -119,4 +119,4 @@ ht-degree: 7%
    + [Madurez de atribución de marketing](/help/marketo-measure-main/evangelist-talks/marketing-attribution-maturity.md)
    + [Silos de datos y atribución de marketing](/help/marketo-measure-main/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live Recordings{#experience-league-live-recordings}
-   + [Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Nuevos paneles de detección de Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
