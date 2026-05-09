@@ -1,6 +1,7 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Measure
+product_v2: id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
 feature-set: Marketo Measure
 landing-page-name: marketo-measure
 landing-page-breadcrumb-title: Marketo Measure
@@ -8,18 +9,18 @@ product: Marketo
 type: Tutorial
 doc-type: video
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-measure-learn.es-ES
+git-repo: https://github.com/AdobeDocs/marketo-measure-learn.en
 index: true
-source-git-commit: bff63a5fea2a7248c64ebbe4d64e4fa10ad1e7d2
+source-git-commit: 95d5c57e4ede3e60d8d13835ccefe6c47d55fc17
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: 70
+ht-degree: 74%
 
 ---
 
 
 # Metadatos para uso interno
 
-El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
+El archivo metadata.md incluye metadatos a nivel del repositorio que transfieren a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
 
 Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) para obtener una lista de valores válidos para **solución**, **producto** y **tipo**.
