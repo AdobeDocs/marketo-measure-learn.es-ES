@@ -1,19 +1,23 @@
 ---
-title: Introducción a  [!DNL Marketo Measure] Discover
+title: Introducción a la detección de [!DNL Marketo Measure]
 description: Vea una descripción general de alto nivel de Discover y sus distintos tableros. En esta lección, aprenda sobre casos de uso comunes de creación de informes para varios de los paneles y mosaicos de Discover.
 jira: KT-11230
 thumbnail: 347206.jpeg
 exl-id: 79595d44-4c68-471e-9df5-aa0c677761b6
 feature: Discover
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+product_v2:
+  - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: Marketo Measure
+feature_v2:
+  - id: 12b64954-e901-54a3-a305-e8e9aa516eb3
+    internal-label: Discover
+source-git-commit: 39c9852c2f3da60da121510eccbb64441a6a016c
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # Introducción a [!DNL Marketo Measure] [!UICONTROL Discover]
 
 Vea información general de alto nivel sobre [!UICONTROL Discover] y sus diversos tableros. En esta lección, aprenda sobre casos de uso comunes de creación de informes para varios de los paneles y mosaicos de Discover.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422341/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
