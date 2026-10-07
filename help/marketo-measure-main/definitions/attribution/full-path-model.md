@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Este vídeo proporciona una explicación detallada del modelo de ruta completa.
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421348/?captions=spa&learn=on){transcript=true}

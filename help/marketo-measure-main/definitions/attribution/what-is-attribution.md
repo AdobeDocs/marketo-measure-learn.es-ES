@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Obtenga información acerca de la atribución y por qué es valiosa.
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421793/?captions=spa&learn=on){transcript=true}
